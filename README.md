@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jaime Parra.
-- 👀 I’m interested in AI, Coding, Development, Finances, Languages, Math, Physics, Robotics, Space.
+- 👀 I’m interested in Aeronautics, AI, Coding, Development, Finances, Languages, Math, Physics, Robotics, Space.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jaime-parra-moreno/)
 
 <!---
