@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Jaime Parra.
+- 👀 I’m interested in AI, Coding, Development, Finances, Languages, Math, Physics, Robotics, Space.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jaime-parra-moreno/)
+
+<!---
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+jsparram/jsparram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
